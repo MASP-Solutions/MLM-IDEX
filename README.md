@@ -1,5 +1,5 @@
 # MLM-IDEX<br/>
-MLM IDEX is a mod for BLV MGN CUBE Project
+MLM IDEX is a mod for Ben Levi's BLV MGN CUBE Project
 <br/>
 ![Alt text](mlmlogo.jpg)<br/>
 <br/>
