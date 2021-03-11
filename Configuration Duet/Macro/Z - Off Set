@@ -1,5 +1,5 @@
 ; Clear compensation map and Z probe trigger height
-M291 P"L'offset Z sar… ripristinato a 0 e la mesh del piatto sar… eliminata. Si intende procedre?" R"Attenzione" S3 ; User must click OK or cancel.
+M291 P"L'offset Z sara ripristinato a 0 e la mesh del piatto sara eliminata. Si intende procedere?" R"Attenzione" S3 ; User must click OK or cancel.
 ;M561			; Disable any current bed compensation
 G29 S2			; Clear mesh bed compensation parameters
 G29 S2			; Clear mesh bed compensation parameters
@@ -17,7 +17,7 @@ M201 Z10	 		; Set maximum accelerations (mm/s^2)
 M913 Z60			; Drop motor current to prevent damage in case of head crash
  
 ; Preheat to probing temps
-M291 P"Riscaldamento del piano a 60ø e dell'hotend a 210ø"
+M291 P"Riscaldamento del piano a 60° e dell'hotend a 210°"
 M104 S210		; Set nozzle to 210 and release
 M190 S60		; Set bed to 60 and wait
 M109 S210		; Set nozzle to 210 and wait
@@ -40,7 +40,7 @@ M291 P"Verranno eseguiti 10 rilevamenti per valutare l'altezza del tigger della 
 G1 Z1					; Drop bed for nozzle clearance
 G1 X0 Y0 F4000 		    ; Move to bed center
 
-;M291 P"I 10 rilevamenti saranno presenti nella console" R"Did you remember to enabled gcode logging?" S3
+;M291 P"I 10 rilevamenti saranno presenti nella console" R"Ti sei ricordato di abilitare il logging?" S3
 ; 1
 G1 Z10
 G30 S-1
@@ -78,7 +78,7 @@ M140 S0		; Set bed to 0 and release
 M913 Z85	; Return Z motor current to normal
 G28			; Home Z
 
-M291 P"Processo completato. Spento riscaldamento di hotend e piatto. Aggiornare il file config.g con l'offset che maggiormente si Š ripetuto tra i 10 rilevamenti." S2
+M291 P"Processo completato. Spento riscaldamento di hotend e piatto. Aggiornare il file config.g con l'offset che maggiormente si e ripetuto tra i 10 rilevamenti." S2
 
 ; Tone to get user attention
 M400			; Clear movement buffer so tones play reliably
