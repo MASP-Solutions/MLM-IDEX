@@ -36,4 +36,4 @@ E' possibile scegliere se movimentare l'azze z servendosi di due o tre viti trap
 Il riscaldamento del piatto è di tipo a "membrana" da 600W - 220V, il piano in alluminio rettificato da 6mm.<br/>
 Il progetto è open source, tutte le parti necessarie alla realizzazione del progetto sono liberamente acquistabili e stampabili.<br/>
 Il progetto mette a disposizione tutti i file per la configurazione che abbiamo messo a punto dopo mesi di collaudo.<br/>
-## [Guarda il progetto in 3d](https://a360.co/38jP7D8) 
+## [Esplora il progetto in 3d](https://a360.co/38jP7D8) 
