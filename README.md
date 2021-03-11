@@ -6,7 +6,7 @@ MLM IDEX is a mod for Ben Levi's BLV MGN CUBE Project
 ![Alt text](./Photos/mlm%20idex.13.jpg)<br/>
 
 ## English<br/>
-BLV MLM IDEX is a italian project started in August 2020 in collaboration with Loris Granatella and Mario Salerno.<br/> 
+BLV MLM IDEX is a italian project started in August 2020 in collaboration with Maicol Spazzini (MASP-Solutions), Loris Granatella and Mario Salerno.<br/> 
 We redesigned Ben Levi's BLV MGN Cube and created an IDEX version.<br/> 
 This printer allows you to create copy, mirror and IDEX configuration prints (using two different colours or materials).<br/>
 The MLM IDEX is equipped with MASP Hotend MK8-R All Metal with adjustable titanium throat, Duet 2 Wi-Fi, Duex5.<br/>
@@ -24,7 +24,7 @@ The project provides all the files for the configuration that we have developed 
 
 
 ## Italiano<br/>
-MLM IDEX è un progetto nato ad Agosto 2020 in collaborazione con Loris Granatella e Mario Salerno, nel quale abbiamo riprogettato la BLV MGN Cube di Ben Levi creandone una versione IDEX.<br/> 
+MLM IDEX è un progetto nato ad Agosto 2020 in collaborazione con Maicol Spazzini (MASP-Solutions),  Loris Granatella e Mario Salerno, nel quale abbiamo riprogettato la BLV MGN Cube di Ben Levi creandone una versione IDEX.<br/> 
 Questa stampante permette di creare stampe in copia, in mirroring e stampe in configurazione IDEX (due colori o materiali differenti).<br/>
 MLM IDEX è equipaggiata con MASP Hotend MK8-R All Metal con gola in titanio regolabile, Duet 2 Wi-Fi, Duex5.<br/>
 Gli assi X ed U sono azionati da potenti pancake LDO Motors 0,9° 1.4A che permettono di avere 800/step giro, gli stessi sono utilizzati anche per E0 ed E1, abbinati ad un sistema dual drive realizzato ad hoc.<br/>
