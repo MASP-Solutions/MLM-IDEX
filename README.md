@@ -9,7 +9,7 @@ We redesigned Ben Levi's BLV MGN Cube and created an IDEX version.<br/>
 This printer allows you to create copy, mirror and IDEX configuration prints (using two different colours or materials).<br/>
 The MLM IDEX is equipped with MASP Hotend MK8-R All Metal with adjustable titanium throat, Duet 2 Wi-Fi, Duex5.<br/>
 The X and U axes are driven by powerful LDO Motors 0.9° 1.4A pancakes that allow 800/step rotations.<br/>
-The same ones are also used for E0 and E1, combined with a specially designed dual drive system.<br/>  
+The same ones are also used for E0 and E1, combined with a specially designed dual drive system.<br/>
 The Y-axis is driven by two Wantai 0.9° 2.4A motors working in pairs: the advantage is the possibility to move the x/u bridge at high speeds and without uncertainties, also thanks to the use of a robust 9mm reinforced GT2 belt (Gates Powergrip).<br/>
 Regarding the X- and U-axes, 6mm GT2 (Gates Powergrip) belts were used to reduce space requirements and to have less moving mass than the Y-axis.<br/>
 A cleaning system tied to the X/U bridge ensures that the inactive tool nozzle can purge outside the plate (tool parking area) and cleans the nozzle before it enters the printing area.<br/>
@@ -25,7 +25,7 @@ The project provides all the files for the configuration that we have developed 
 MLM IDEX è un progetto nato ad Agosto 2020 in collaborazione con Loris Granatella e Mario Salerno, nel quale abbiamo riprogettato la BLV MGN Cube di Ben Levi creandone una versione IDEX.<br/> 
 Questa stampante permette di creare stampe in copia, in mirroring e stampe in configurazione IDEX (due colori o materiali differenti).<br/>
 MLM IDEX è equipaggiata con MASP Hotend MK8-R All Metal con gola in titanio regolabile, Duet 2 Wi-Fi, Duex5.<br/>
-Gli assi X ed U sono azionati da potenti pancake LDO Motors 0,9° 1.4A che permettono di avere 800/step giro, gli stessi sono utilizzati anche per E0 ed E1, abbinati ad un sistema dual drive realizzato ad hoc.<br/>  
+Gli assi X ed U sono azionati da potenti pancake LDO Motors 0,9° 1.4A che permettono di avere 800/step giro, gli stessi sono utilizzati anche per E0 ed E1, abbinati ad un sistema dual drive realizzato ad hoc.<br/>
 L'asse Y è azionato da 2 motori Wantai 0,9° 2,4A che lavorano in coppia, a vantaggio di ciò, la possibilità di muovere il ponte X/U senza incertezze e ad alte velocità, garantito anche dall'impiego di una robusta cinghia da 9mm rinforzata di tipo GT2 (Gates Powergrip).
 Per quanto concerne gli assi X ed U, sono state impiegate cinghie da 6mm di tipo GT2 (Gates Powergrip) per ridurre gli ingombri e per la minor massa in movimento rispetto all'asse Y.<br/>
 Un sistema di pulizia vincolato al ponte X/U fa in modo che l'ugello del tool non attivo possa spurgare al di fuori del piatto (tool parking area) e pulisce l'ugello prima del suo ingresso nell'area di stampa.
