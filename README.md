@@ -3,7 +3,7 @@ MLM IDEX is a mod for Ben Levi's BLV MGN CUBE Project
 <br/>
 ![Alt text](mlmlogo.jpg)<br/>
 <br/>
-![Alt text](./Photos/mlm%20idex.13.jpg)<br/>
+![Alt text](./Pictures/mlm%20idex.13.jpg)<br/>
 
 ## English<br/>
 BLV MLM IDEX is a italian project started in August 2020 in collaboration with Maicol Spazzini (MASP-Solutions), Loris Granatella and Mario Salerno.<br/> 
