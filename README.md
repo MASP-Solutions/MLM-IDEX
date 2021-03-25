@@ -32,7 +32,7 @@ L'asse Y è azionato da 2 motori Wantai 0,9° 2,4A che lavorano in coppia, a van
 Per quanto concerne gli assi X ed U, sono state impiegate cinghie da 6mm di tipo GT2 (Gates Powergrip) per ridurre gli ingombri e per la minor massa in movimento rispetto all'asse Y.<br/>
 Un sistema di pulizia vincolato al ponte X/U fa in modo che l'ugello del tool non attivo possa spurgare al di fuori del piatto (tool parking area) e pulisce l'ugello prima del suo ingresso nell'area di stampa.
 La calibrazione dell'offset Z, per il "Tool 0" (ovvero X), è semiautomatica grazie all'impiego di una probe a contatto (BLTouch) e ad una procedura scritta da noi ad hoc per facilitare l'operazione, per quanto riguarda il "Tool 1" (ovvero U) la calibrazione dell'offset Z è manuale, agevolata efficacemente dalla conformazione costruttiva dell’hotend MASP MK8-R.<br/>
-E' possibile scegliere se movimentare l'azze z servendosi di due o tre viti trapezie, azionate da potenti Wantai 1.8° da 2.5A.<br/>
+E' possibile scegliere se movimentare l'asse Z servendosi di due o tre viti trapezie, azionate da potenti Wantai 1.8° da 2.5A.<br/>
 Il riscaldamento del piatto è di tipo a "membrana" da 600W - 220V, il piano in alluminio rettificato da 6mm.<br/>
 Il progetto è open source, tutte le parti necessarie alla realizzazione del progetto sono liberamente acquistabili e stampabili.<br/>
 Il progetto mette a disposizione tutti i file per la configurazione che abbiamo messo a punto dopo mesi di collaudo.<br/>
