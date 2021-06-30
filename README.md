@@ -17,7 +17,7 @@ Regarding the X- and U-axes, 6mm GT2 (Gates Powergrip) belts were used to reduce
 A cleaning system tied to the X/U bridge ensures that the inactive tool nozzle can purge outside the plate (tool parking area) and cleans the nozzle before it enters the printing area.<br/>
 The calibration of the Z offset, for "Tool 0" (i.e. X), is semi-automatic thanks to the use of a contact probe (BLTouch) and a procedure written by us ad hoc to facilitate the operation. As for the "Tool 1" (i.e. U) the calibration of the Z offset is manual, effectively facilitated by the constructive conformation of the MASP MK8-R hotend.<br/>
 It is possible to choose between two or three trapezoid screws, driven by powerful Wantai 1.8° 2.5A motors.<br/>
-The plate heater is a 600W - 220V "membrane" type, the top is made of 6mm ground aluminium.<br/>
+The plate heater is a 600W - 220V "membrane" type, the top is made of 6mm aluminium.<br/>
 The project is open source, all the necessary parts are freely available for purchase and printing.<br/>
 The project provides all the files for the configuration that we have developed after months of testing.<br/>
 ## [Watch the project in 3D](https://a360.co/38jP7D8) 
@@ -33,7 +33,7 @@ Per quanto concerne gli assi X ed U, sono state impiegate cinghie da 6mm di tipo
 Un sistema di pulizia vincolato al ponte X/U fa in modo che l'ugello del tool non attivo possa spurgare al di fuori del piatto (tool parking area) e pulisce l'ugello prima del suo ingresso nell'area di stampa.
 La calibrazione dell'offset Z, per il "Tool 0" (ovvero X), è semiautomatica grazie all'impiego di una probe a contatto (BLTouch) e ad una procedura scritta da noi ad hoc per facilitare l'operazione, per quanto riguarda il "Tool 1" (ovvero U) la calibrazione dell'offset Z è manuale, agevolata efficacemente dalla conformazione costruttiva dell’hotend MASP MK8-R.<br/>
 E' possibile scegliere se movimentare l'asse Z servendosi di due o tre viti trapezie, azionate da potenti Wantai 1.8° da 2.5A.<br/>
-Il riscaldamento del piatto è di tipo a "membrana" da 600W - 220V, il piano in alluminio rettificato da 6mm.<br/>
+Il riscaldamento del piatto è di tipo a "membrana" da 600W - 220V, il piano in alluminio fresato da 6mm.<br/>
 Il progetto è open source, tutte le parti necessarie alla realizzazione del progetto sono liberamente acquistabili e stampabili.<br/>
 Il progetto mette a disposizione tutti i file per la configurazione che abbiamo messo a punto dopo mesi di collaudo.<br/>
 ## [Esplora il progetto in 3d](https://a360.co/38jP7D8) 
