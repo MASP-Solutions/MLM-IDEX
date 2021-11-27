@@ -20,7 +20,7 @@ It is possible to choose between two or three trapezoid screws, driven by powerf
 The plate heater is a 600W - 220V "membrane" type, the top is made of 6mm aluminium.<br/>
 The project is open source, all the necessary parts are freely available for purchase and printing.<br/>
 The project provides all the files for the configuration that we have developed after months of testing.<br/>
-## [Watch the project in 3D](https://a360.co/3FaTnDd) 
+## [Watch the project in 3D](https://a360.co/3HS0RNv) 
 
 
 ## Italiano<br/>
@@ -36,4 +36,4 @@ E' possibile scegliere se movimentare l'asse Z servendosi di due o tre viti trap
 Il riscaldamento del piatto è di tipo a "membrana" da 600W - 220V, il piano in alluminio fresato da 6mm.<br/>
 Il progetto è open source, tutte le parti necessarie alla realizzazione del progetto sono liberamente acquistabili e stampabili.<br/>
 Il progetto mette a disposizione tutti i file per la configurazione che abbiamo messo a punto dopo mesi di collaudo.<br/>
-## [Esplora il progetto in 3d](https://a360.co/3FaTnDd) 
+## [Esplora il progetto in 3d](https://a360.co/3HS0RNv) 
